@@ -1,0 +1,23 @@
+{
+  "name": "wt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrunoa/wt.git"
+  },
+  "author": "Urucas <hello@urucas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrunoa/wt/issues"
+  },
+  "homepage": "https://github.com/vrunoa/wt#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
